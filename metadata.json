@@ -1,0 +1,8 @@
+{
+  "name": "Sondagem IA",
+  "description": "Sistema de sondagem pedagógica com IA para Educação Infantil, baseado nas fases do desenho, escrita (Ehri), consciência fonológica e matemática.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
